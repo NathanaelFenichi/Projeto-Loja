@@ -5,6 +5,7 @@ A ideia aqui é mostrar o básico de um e-commerce: cadastro, login, catálogo, 
 optei por ultilizar cores claras para o publico mais adulto e um desgn moderno e arredondado para o publico jovem, busquei mesclar os dois lados da moeda.
 pelas linguagens usem o JQuery para integrar as APIs(o que estou recentemente aprendendo na faculdade), e como backend usei o php basico(aprendi no curso do senac), com mysql (HeidSql) como banco de dados.
 é ultilizado uma Api gratuita de loja do fortinite https://fortnite-api.com/
+---
 Site no deploy do render https://processo-seletivo-eso-g0yb.onrender.com
  
 
